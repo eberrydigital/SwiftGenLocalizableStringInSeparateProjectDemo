@@ -1,0 +1,20 @@
+/* 
+  Localizable.strings
+  LocalizableStringsFramework
+
+  Created by Alexander Cyon on 2018-07-26.
+  Copyright © 2018 Sajjon. All rights reserved.
+*/
+
+"Animal.Wolf" = "Varg";
+"Animal.Dog.Pug" = "Mops";
+"Animal.Dog.GermanShepherd" = "Schäfer";
+
+"Continent.Europe.Country.Sweden" = "Sverige";
+"Continent.Europe.Country.Sweden.City.Gothenburg" = "Göteborg";
+
+"Continent.Europe.Country.Denmark" = "Danmark";
+"Continent.Europe.Country.Denmark.City.Copenhagen" = "Köpenhamn";
+
+"Continent.Africa.Country.SouthAfrica" = "Sydafrika";
+"Continent.Africa.Country.SouthAfrica.City.CapeTown" = "Kapstaden";
